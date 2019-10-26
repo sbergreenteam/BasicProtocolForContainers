@@ -14,6 +14,7 @@
 		C938D484236490C00064669D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C938D482236490C00064669D /* LaunchScreen.storyboard */; };
 		C938D48C236492060064669D /* ContainerProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = C938D48B236492060064669D /* ContainerProtocol.swift */; };
 		C938D48E236499CF0064669D /* LinkedList.swift in Sources */ = {isa = PBXBuildFile; fileRef = C938D48D236499CF0064669D /* LinkedList.swift */; };
+		C93AB54E2364D6AB007D33B9 /* Queue.swift in Sources */ = {isa = PBXBuildFile; fileRef = C93AB54D2364D6AB007D33B9 /* Queue.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		C938D485236490C00064669D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C938D48B236492060064669D /* ContainerProtocol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContainerProtocol.swift; sourceTree = "<group>"; };
 		C938D48D236499CF0064669D /* LinkedList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LinkedList.swift; sourceTree = "<group>"; };
+		C93AB54D2364D6AB007D33B9 /* Queue.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Queue.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				C938D47B236490B90064669D /* ViewController.swift */,
 				C938D48B236492060064669D /* ContainerProtocol.swift */,
 				C938D48D236499CF0064669D /* LinkedList.swift */,
+				C93AB54D2364D6AB007D33B9 /* Queue.swift */,
 				C938D47D236490B90064669D /* Main.storyboard */,
 				C938D480236490C00064669D /* Assets.xcassets */,
 				C938D482236490C00064669D /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C93AB54E2364D6AB007D33B9 /* Queue.swift in Sources */,
 				C938D48C236492060064669D /* ContainerProtocol.swift in Sources */,
 				C938D47C236490B90064669D /* ViewController.swift in Sources */,
 				C938D48E236499CF0064669D /* LinkedList.swift in Sources */,
